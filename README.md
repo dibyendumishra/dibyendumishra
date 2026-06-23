@@ -6,6 +6,7 @@ I investigate complex civic interest data, build tools and methods for better ov
 - 🌱 I am on the job market currently and am looking for places that trust and enjoy working with folks with non linear trajectories like mine.
 - 👯 I am always looking to collaborate and volunteer on projects that are in the public interest and could do with set of skills and enthusisam. Please write to me at dibyendumishra96 at gmail dot com
 
+PS: ⚡ Code on this repo unfortunately for now mostly contains migrated code from my now lost institutional accounts and therefore serves as a small exhibit of my past work . I'll plan to be more frequent hereon
 <!--
 **dibyendumishra/dibyendumishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
