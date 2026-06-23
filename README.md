@@ -1,4 +1,10 @@
-## Hi there 👋
+## Dibyendu Mishra, Civic Technolgist and Researcher 
+
+I investigate complex civic interest data, build tools and methods for better oversight of (emerging) tehchnologies mediating democratic institutions and occasionaly write about it all. My primary sites of interest have been social media during times of crises and government welfare systems. I am trained in and draw from diverse forms of investigative schools: computer science and science and technology studies.
+
+- 🔭 I recently graduated from a research Masters program at Cornell's Computing and Information Science department with a concentration in STS where I read and wrote about the cultural significance of AI systems (forthcoming!)
+- 🌱 I am on the job market currently and am looking for places that trust and enjoy working with folks with non linear trajectories like mine.
+- 👯 I am always looking to collaborate and volunteer on projects that are in the public interest and could do with set of skills and enthusisam. Please write to me at dibyendumishra96 at gmail dot com
 
 <!--
 **dibyendumishra/dibyendumishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
